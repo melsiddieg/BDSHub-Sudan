@@ -17,7 +17,7 @@ To get started with the Biomedical Data Science Hub of Sudan, follow these steps
 1.	Clone the repository:
 bash
 Copy code
-git clone https://github.com/fadlelmola/Biomedical-Data-Science-Hub-Sudan.git
+git clone https://github.com/Fadlelmola/BDSHub-Sudan/tree/main
 2.	Explore the repository:
 o	/data: Open datasets related to biomedical data science research in Sudan.
 o	/docs: Documentation, including project descriptions and research reports.
