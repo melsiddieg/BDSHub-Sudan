@@ -15,17 +15,20 @@ Our repository contains the following:
 •	Training materials: Courses and tutorials for data science, bioinformatics, and related fields.
 •	Project documentation: Detailed descriptions of ongoing and past projects.
 •	Collaboration tools: Guidelines and resources for contributors to engage with the hub.
+
 Getting Started
 To get started with the Biomedical Data Science Hub of Sudan, follow these steps:
 1.	Clone the repository:
 bash
 Copy code
 git clone https://github.com/Fadlelmola/BDSHub-Sudan/tree/main
+
 2.	Explore the repository:
 o	/data: Open datasets related to biomedical data science research in Sudan.
 o	/docs: Documentation, including project descriptions and research reports.
 o	/training: Tutorials, workshops, and resources for capacity building.
 o	/collaboration: Guidelines for contributing and collaborating on research projects.
+
 3.	Join the community:
 o	Join our Slack channel to connect with researchers, contributors, and innovators.
 o	Attend our regular webinars and workshops (details available in the events.md file).
@@ -36,20 +39,25 @@ We welcome contributions from researchers, data scientists, bioinformaticians, a
 bash
 Copy code
 git checkout -b feature/your-feature
+
 3.	Commit your changes:
 bash
 Copy code
 git commit -m "Add a new feature"
+
 4.	Push the branch:
 bash
 Copy code
 git push origin feature/your-feature
+
 5.	Create a pull request.
 For more detailed guidelines, please check our Contributing Guidelines.
 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the content of this repository, as long as the original authors are credited.
+
 Code of Conduct
 We are committed to creating a welcoming and inclusive community. Please read and adhere to our Code of Conduct.
+
 Contact
 If you have any questions, feel free to reach out to us at [faisalfadl@gmail.com] or join our Slack community.
 ________________________________________
