@@ -2,13 +2,13 @@
 Building a Sudanese Biomedical Data Science Community Hub based on Open Science Principles!
 Welcome to the Biomedical Data Science Hub of Sudan repository! This hub is an open initiative that supports the advancement of biomedical data science research and innovation in Sudan, with a focus on health equity and collaborative research. We are committed to open science principles, providing tools, data, and resources to researchers, health professionals, and innovators.
 
-Overview
+**Overview**
 
-Problem:
+**Problem**
 
 There are currently limited initiatives put into the promotion of data science in Sudan. There are considerable needs of collaboration, training as well as access to data in the biomedical science domain.
 
-Solution:
+**Solution**
 
 The Biomedical Data Science Hub of Sudan aims to:
 1. Foster a collaborative and inclusive community for biomedical data science.
@@ -23,7 +23,7 @@ Our repository contains the following:
 •	Project documentation: Detailed descriptions of ongoing and past projects.
 •	Collaboration tools: Guidelines and resources for contributors to engage with the hub.
 
-Getting Started
+**Getting Started**
 To get started with the Biomedical Data Science Hub of Sudan, follow these steps:
 1.	Clone the repository:
 bash
@@ -36,11 +36,11 @@ o	/docs: Documentation, including project descriptions and research reports.
 o	/training: Tutorials, workshops, and resources for capacity building.
 o	/collaboration: Guidelines for contributing and collaborating on research projects.
 
-3.	Join the community:
+3.	**Join our community**
 o	Join our Slack channel to connect with researchers, contributors, and innovators.
 o	Attend our regular webinars and workshops (details available in the events.md file).
 
-Contributing
+**Contributing**
 
 We welcome contributions from researchers, data scientists, bioinformaticians, and open science advocates. Here’s how you can contribute:
 1.	Fork the repository.
@@ -64,10 +64,10 @@ For more detailed guidelines, please check our Contributing Guidelines.
 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the content of this repository, as long as the original authors are credited.
 
-Code of Conduct
+**Code of Conduct**
 We are committed to creating a welcoming and inclusive community. Please read and adhere to our Code of Conduct.
 
-Contact
+**Contact**
 If you have any questions, feel free to reach out to us at [faisalfadl@gmail.com] or join our Slack community.
 ________________________________________
 We are excited to have you on board as part of the Biomedical Data Science Hub of Sudan. Together, we can make impactful strides in advancing health research and data science in Sudan and beyond!
