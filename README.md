@@ -24,6 +24,7 @@ Our repository contains the following:
 •	Collaboration tools: Guidelines and resources for contributors to engage with the hub.
 
 **Getting Started**
+
 To get started with the Biomedical Data Science Hub of Sudan, follow these steps:
 1.	Clone the repository:
 bash
@@ -37,6 +38,7 @@ o	/training: Tutorials, workshops, and resources for capacity building.
 o	/collaboration: Guidelines for contributing and collaborating on research projects.
 
 3.	**Join our community**
+4.	
 o	Join our Slack channel to connect with researchers, contributors, and innovators.
 o	Attend our regular webinars and workshops (details available in the events.md file).
 
@@ -65,9 +67,11 @@ License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the content of this repository, as long as the original authors are credited.
 
 **Code of Conduct**
+
 We are committed to creating a welcoming and inclusive community. Please read and adhere to our Code of Conduct.
 
 **Contact**
+
 If you have any questions, feel free to reach out to us at [faisalfadl@gmail.com] or join our Slack community.
 ________________________________________
 We are excited to have you on board as part of the Biomedical Data Science Hub of Sudan. Together, we can make impactful strides in advancing health research and data science in Sudan and beyond!
