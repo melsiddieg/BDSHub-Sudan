@@ -41,6 +41,7 @@ o	Join our Slack channel to connect with researchers, contributors, and innovato
 o	Attend our regular webinars and workshops (details available in the events.md file).
 
 Contributing
+
 We welcome contributions from researchers, data scientists, bioinformaticians, and open science advocates. Here’s how you can contribute:
 1.	Fork the repository.
 2.	Create a new branch:
