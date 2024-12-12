@@ -1,8 +1,12 @@
 # BDSHub-Sudan
 Building a Sudanese Biomedical Data Science Community Hub based on Open Science Principles!
-Welcome to the Biomedical Data Science Hub of Sudan repository! This hub is an open initiative that supports the advancement of biomedical data science research and innovation in Sudan, with a focus on health equity and collaborative research. We are committed to open science principles, providing tools, data, and resources to researchers, health professionals, and innovators.
+
+**Welcome to the Biomedical Data Science Hub of Sudan repository!** 
+
+This hub is an open initiative that supports the advancement of biomedical data science research and innovation in Sudan, with a focus on health equity and collaborative research. We are committed to open science principles, providing tools, data, and resources to researchers, health professionals, and innovators.
 
 **Overview**
+We aim to establish the Biomedical Data Science Hub of Sudan to foster an enabling and inclusive community that sustains biomedical data science research and innovation in Sudan.
 
 **Problem**: There are currently limited initiatives put into the promotion of data science in Sudan. There are considerable needs of collaboration, training as well as access to data in the biomedical science domain.
 
@@ -14,10 +18,10 @@ Welcome to the Biomedical Data Science Hub of Sudan repository! This hub is an o
 
 Our repository contains the following:
 
-•	Open data: Datasets related to biomedical research.
-•	Training materials: Courses and tutorials for data science, bioinformatics, and related fields.
-•	Project documentation: Detailed descriptions of ongoing and past projects.
-•	Collaboration tools: Guidelines and resources for contributors to engage with the hub.
+•	**Open data**: Datasets related to biomedical research in Sudan and beyond.
+•	**Training materials**: Courses and tutorials for data science, bioinformatics, and related fields.
+•	**Project documentation**: Detailed descriptions of ongoing and past projects.
+•	**Collaboration tools**: Guidelines and resources for contributors to engage with the hub.
 
 **Getting Started**: To get started with the Biomedical Data Science Hub of Sudan, follow these steps:
 1.	Clone the repository:
