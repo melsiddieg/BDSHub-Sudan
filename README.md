@@ -34,6 +34,7 @@ Copy code
 git clone https://github.com/Fadlelmola/BDSHub-Sudan/tree/main
 
 2.	**Explore the repository**:
+
 o	/data: Open datasets related to biomedical data science research in Sudan.
 o	/docs: Documentation, including project descriptions and research reports.
 o	/training: Tutorials, workshops, and resources for capacity building.
