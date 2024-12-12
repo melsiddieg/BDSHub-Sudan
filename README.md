@@ -1,9 +1,14 @@
 # BDSHub-Sudan
 Building a Sudanese Biomedical Data Science Community Hub based on Open Science Principles!
 Welcome to the Biomedical Data Science Hub of Sudan repository! This hub is an open initiative that supports the advancement of biomedical data science research and innovation in Sudan, with a focus on health equity and collaborative research. We are committed to open science principles, providing tools, data, and resources to researchers, health professionals, and innovators.
-Overview
-The Biomedical Data Science Hub of Sudan aims to:
 
+Overview
+Problem:
+
+There are currently limited initiatives put into the promotion of data science in Sudan. There are considerable needs of collaboration, training as well as access to data in the biomedical science domain.
+
+Solution:
+The Biomedical Data Science Hub of Sudan aims to:
 1. Foster a collaborative and inclusive community for biomedical data science.
 2. Enable open access to biomedical data and resources.
 3. Build capacity through training and mentorship for Sudanese researchers.
@@ -32,6 +37,7 @@ o	/collaboration: Guidelines for contributing and collaborating on research proj
 3.	Join the community:
 o	Join our Slack channel to connect with researchers, contributors, and innovators.
 o	Attend our regular webinars and workshops (details available in the events.md file).
+
 Contributing
 We welcome contributions from researchers, data scientists, bioinformaticians, and open science advocates. Here’s how you can contribute:
 1.	Fork the repository.
