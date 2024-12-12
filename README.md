@@ -9,6 +9,7 @@ Problem:
 There are currently limited initiatives put into the promotion of data science in Sudan. There are considerable needs of collaboration, training as well as access to data in the biomedical science domain.
 
 Solution:
+
 The Biomedical Data Science Hub of Sudan aims to:
 1. Foster a collaborative and inclusive community for biomedical data science.
 2. Enable open access to biomedical data and resources.
