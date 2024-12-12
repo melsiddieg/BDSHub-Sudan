@@ -40,7 +40,7 @@ o	/training: Tutorials, workshops, and resources for capacity building.
 o	/collaboration: Guidelines for contributing and collaborating on research projects.
 
 3.	**Join our community**
-4.	
+   
 o	Join our Slack channel to connect with researchers, contributors, and innovators.
 o	Attend our regular webinars and workshops (details available in the events.md file).
 
