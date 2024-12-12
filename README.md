@@ -17,7 +17,7 @@ We aim to establish the Biomedical Data Science Hub of Sudan to foster an enabli
 3. Build capacity through training and mentorship for Sudanese researchers.
 4.	Drive large-scale research projects to address pressing health challenges in Sudan and beyond.
 
-Our repository contains the following:
+**Our repository** contains the following:
 
 •	**Open data**: Datasets related to biomedical research in Sudan and beyond.
 
@@ -28,7 +28,7 @@ Our repository contains the following:
 •	**Collaboration tools**: Guidelines and resources for contributors to engage with the hub.
 
 **Getting Started**: To get started with the Biomedical Data Science Hub of Sudan, follow these steps:
-1.	Clone the repository:
+1.	**Clone the repository**:
 bash
 Copy code
 git clone https://github.com/Fadlelmola/BDSHub-Sudan/tree/main
