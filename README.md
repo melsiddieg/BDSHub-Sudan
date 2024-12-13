@@ -79,6 +79,6 @@ We are committed to creating a welcoming and inclusive community. Please read an
 
 **Contact**
 
-If you have any questions, feel free to reach out to us at [faisalfadl@gmail.com] or join our Slack community @: https://join.slack.com/t/biomedicaldat-daq4977/shared_invite/zt-2w8ks5wqb-MYzbeqWlrS6mc7XN2XpD4Q
+If you have any questions, feel free to reach out to us at [faisalfadl@gmail.com] or join our Slack community @: https://shorturl.at/9jT1T
 ________________________________________
 We are excited to have you on board as part of the Biomedical Data Science Hub of Sudan. Together, we can make impactful strides in advancing health research and data science in Sudan and beyond!
