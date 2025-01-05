@@ -3,7 +3,7 @@ Building a Sudanese Biomedical Data Science Community Hub based on Open Science 
 
 **Welcome to the Biomedical Data Science Hub of Sudan repository!** 
 
-This hub is an open initiative that supports the advancement of biomedical data science research and innovation in Sudan, with a focus on health equity and collaborative research. We are committed to [...]
+This hub is an open initiative that supports the advancement of biomedical data science research and innovation in Sudan, with a focus on health equity and collaborative research. We are committed to open science principles, providing tools, data, and resources to researchers, health professionals, and innovators.
 
 ## Table of Contents
 - [Overview](#overview)
